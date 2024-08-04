@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-image: url('bj.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    color: #fff;
+}
+
+header {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 1em 0;
+}
+
+#current-time {
+    font-size: 3em;
+}
+
+#date-time p {
+    font-size: 1.2em;
+}
+
+#social-media {
+    margin: 2em 0;
+}
+
+.social-icon {
+    color: #007bff;
+    font-size: 2em;
+    margin: 0 1em;
+    text-decoration: none;
+}
+
+.social-icon:hover {
+    color: #0056b3;
+}
+
+.social-icon i {
+    background: none;
+}
